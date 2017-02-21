@@ -5,3 +5,6 @@ public static void main(String arg[])
 }
 }
 hihiohihj
+hihik
+bjkbnk
+hbikhbnik
